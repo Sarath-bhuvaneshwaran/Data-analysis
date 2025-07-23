@@ -32,7 +32,7 @@ The goal of this project is to analyze the publicly available Netflix dataset an
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/Sarath-bhuvaneshwaran/Data-analysis/blob/main/Screenshot%202025-07-23%20233735.png.png)
 
 *(Replace this with your actual image name after uploading)*
 
