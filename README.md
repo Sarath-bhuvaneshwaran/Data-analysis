@@ -87,7 +87,7 @@ The dataset used in this project is publicly available from [Kaggle](https://www
 **Sarath Bhuvaneshwaran R.**  
 > Passionate about Data Analytics and Business Intelligence  
 > 📧 bhuvaneshwaransarath@gmail.com 
-> 🌐 sarathbhuvaneshwaran
+> 🌐 sarathbhuvaneshwaran// https://www.linkedin.com/in/sarathbhuvanesh/
 
 ---
 
