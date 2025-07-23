@@ -32,7 +32,8 @@ The goal of this project is to analyze the publicly available Netflix dataset an
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](Screenshot 2025-07-23 233735.png)
+![Dashboard Preview](dashboard_screenshot.png)
+
 
 *(Replace this with your actual image name after uploading)*
 
